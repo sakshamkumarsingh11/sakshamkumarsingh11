@@ -1,16 +1,50 @@
-## Hi there 👋
+# Hey, I'm Saksham 👋  
 
-<!--
-**sakshamkumarsingh11/sakshamkumarsingh11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **2nd Year B.Tech Student** | 💻 Aspiring Full-Stack Developer | 🌱 Always Evolving  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me  
+- 🎯 Passionate about building **practical, impactful projects**  
+- 🛠 Currently working on: **Medic-Assistant** 🩺  
+- 📚 Learning **Spring Boot, JavaFX, and REST APIs**  
+- 💡 I believe in **"Code it. Break it. Fix it. Learn from it."**  
+
+---
+
+## 🛤 My Journey  
+- **1st Year:** Started with **Python**, learning the basics of problem-solving and building simple projects  
+  - Strengthening **Java** skills (OOP, GUI, Backend)
+  - **Now (2nd Year):**  
+  - Exploring **C++ with DSA** for competitive programming  
+  - Building full-stack applications integrating frontend + backend  
+
+---
+
+## 🛠 Tech Stack  
+**Languages:** Java, Python, C++, HTML, CSS, JavaScript  
+**Frameworks & Tools:** Spring Boot, Tkinter, MySQL, Git & GitHub  
+**Learning:** JavaFX, REST APIs, Advanced DSA  
+
+---
+
+## 📌 Featured Projects  
+- 🩺 **[Medic-Assistant](https://github.com/sakshamkumarsingh11/Medic-Assistant-)** – Doctor’s assistant app with medicine recommendations  
+- 🛒 **Kirana Store Management** – Local shop inventory system in Python
+
+ ## 📊 GitHub Stats  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshamkumarsingh11&show_icons=true&theme=tokyonight)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkumarsingh11&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Let's Connect  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sakshamkumarsingh11)  
+
+---
+
+✨ *"From Python basics to C++ DSA,  
+from simple scripts to real-world apps —  
+this journey is just getting started."* ✨  
+
