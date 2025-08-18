@@ -7,7 +7,7 @@
 ## 👨‍💻 About Me  
 - 🎯 Passionate about building **practical, impactful projects**  
 - 🛠 Currently working on: **Medic-Assistant** 🩺  
-- 📚 Learning **Spring Boot, JavaFX, and REST APIs**  
+- 📚 Proficient in **Spring Boot, JavaFX, and REST APIs**
 - 💡 I believe in **"Code it. Break it. Fix it. Learn from it."**  
 ---
 ### 🔧 Skills
