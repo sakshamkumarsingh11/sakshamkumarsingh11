@@ -10,6 +10,12 @@
 - 📚 Learning **Spring Boot, JavaFX, and REST APIs**  
 - 💡 I believe in **"Code it. Break it. Fix it. Learn from it."**  
 ---
+### 🔧 Skills
+- **Languages:** Java, Python, C++ 
+- **Frameworks:** Spring Boot  
+- **Concepts:** AI, Backend Development, DSA  
+- **Tools:** Git, GitHub  
+
 
 ## 📈 DSA Progress  
 
