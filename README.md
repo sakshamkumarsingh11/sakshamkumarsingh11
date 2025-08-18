@@ -16,9 +16,9 @@
 ![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest)
 
 ### 🔗 Profiles  
-- [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME)  
-- [Codolio](https://www.codolio.com/profile/YOUR_CODOLIO_USERNAME)  
-- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/practice/)  
+- [LeetCode](https://leetcode.com/u/Sakshamks11/)  
+- [Codolio](https://codolio.com/profile/Sakshamks11)  
+- [GeeksforGeeks](https://www.geeksforgeeks.org/user/codecsesqf11/)  
 
 ---
 
