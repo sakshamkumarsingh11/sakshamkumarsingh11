@@ -13,7 +13,7 @@
 
 ## 📈 DSA Progress  
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/saksham_123?theme=dark&font=baloo&ext=contest)
+![LeetCode Stats](https://leetcard.jacoblin.cool/saksham_123?theme=dark&font=baloo)
 
 ### 🔗 Profiles  
 - [LeetCode](https://leetcode.com/u/Sakshamks11/)  
