@@ -9,6 +9,16 @@
 - 🛠 Currently working on: **Medic-Assistant** 🩺  
 - 📚 Learning **Spring Boot, JavaFX, and REST APIs**  
 - 💡 I believe in **"Code it. Break it. Fix it. Learn from it."**  
+---
+
+## 📈 DSA Progress  
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/YOUR_LEETCODE_USERNAME?theme=dark&font=baloo&ext=contest)
+
+### 🔗 Profiles  
+- [LeetCode](https://leetcode.com/YOUR_LEETCODE_USERNAME)  
+- [Codolio](https://www.codolio.com/profile/YOUR_CODOLIO_USERNAME)  
+- [GeeksforGeeks](https://auth.geeksforgeeks.org/user/YOUR_GFG_USERNAME/practice/)  
 
 ---
 
