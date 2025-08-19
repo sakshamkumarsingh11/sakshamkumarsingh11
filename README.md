@@ -1,6 +1,6 @@
 # Hey, I'm Saksham 👋  
 
-🚀 **2nd Year B.Tech Student** | 💻 Aspiring Full-Stack Developer | 🌱 Always Evolving  
+🚀 **2nd Year B.Tech Student** | 💻 Aspiring Software Engineer | 🌱 Always Evolving  
 
 ---
 
@@ -31,7 +31,7 @@
 ## 🛤 My Journey  
 - **1st Year:** Started with **Python**, learning the basics of problem-solving and building simple projects  
   - Strengthening **Java** skills (OOP, GUI, Backend)
-  - **Now (2nd Year):**  
+- **Now (2nd Year):**  
   - Exploring **C++ with DSA** for competitive programming  
   - Building full-stack applications integrating frontend + backend  
 
