@@ -47,7 +47,7 @@
 ## 📌 Featured Projects  
 
 - 🩺 **[Medic-Assistant](https://github.com/sakshamkumarsingh11/Medic-Assistant-)** – Doctor’s assistant app with medicine recommendations
-- - ☁️ **[ConvoCloud](https://github.com/sakshamkumarsingh11/ConvoCloud)** – Beginner-friendly project to learn deployment & collaboration  
+- ☁️**[ConvoCloud](https://github.com/sakshamkumarsingh11/ConvoCloud)** – Beginner-friendly project to learn deployment & collaboration  
 - 🛒 **Kirana Store Management** – Local shop inventory system in Python
   
 
