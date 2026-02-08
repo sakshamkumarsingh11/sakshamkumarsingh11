@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center">B.Tech (2nd Year) | Backend & ML Enthusiast | DSA-Oriented</h3>
+<h3 align="center">B.Tech (2nd Year) | Backend + ML Engineer in Progress | DSA-Focused</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/Sakshamks11/">LeetCode</a> •
@@ -10,10 +10,10 @@
 ---
 
 ## 🚀 About Me
-- 2nd Year **B.Tech student** focused on **strong fundamentals**
-- Interested in **Backend Engineering + Machine Learning**
-- Believe in building **projects first**, theory alongside
-- Currently working on **ML-driven healthcare systems**
+- 2nd Year **B.Tech student** building strong CS fundamentals  
+- Focused on **Backend Engineering + Machine Learning**
+- Prefer **real-world projects over toy demos**
+- Currently working on **ML & Deep Learning–based systems**
 
 > _Code. Fail. Debug. Repeat._
 
@@ -22,8 +22,9 @@
 ## 🧠 Current Focus
 - **DSA in C++** (problem-solving & efficiency)
 - **Spring Boot + REST APIs**
-- **Machine Learning fundamentals**
-- Backend-heavy, logic-driven projects
+- **MERN Stack (MongoDB, Express, React, Node.js)**
+- **Machine Learning & Deep Learning**
+- Cloud fundamentals with **AWS**
 
 ---
 
@@ -33,61 +34,72 @@
 `Java` `C++` `Python` `JavaScript` `HTML` `CSS`
 
 ### Backend & Frameworks
-`Spring Boot` `REST APIs` `JavaFX` `Swing` `Tkinter`
+`Spring Boot` `REST APIs`  
+`MongoDB` `Express.js` `React` `Node.js` (MERN)
 
-### Machine Learning
+### Machine Learning & Deep Learning
+- Supervised Learning
+- Data Preprocessing & Feature Engineering
+- Model Training & Evaluation  
+**Libraries:**  
 `Scikit-learn` `Pandas` `NumPy`  
-Supervised Learning • Preprocessing • Model Evaluation
+`Keras` `PyTorch`
 
-### Tools & DB
-`Git` `GitHub` `MySQL`
+### Cloud & Tools
+`AWS` `Git` `GitHub` `MySQL`
 
 ---
 
 ## 📌 Featured Projects
 
+### 🐶 Dog Vision Project
+- Deep Learning–based image classification system  
+- Built using **CNNs with PyTorch / Keras**
+- Focused on computer vision fundamentals and model evaluation  
+
+---
+
 ### 🩺 Heart Disease Prediction Model
 🔗 https://github.com/sakshamkumarsingh11/Heart-disease-prediction-model  
 - ML-based healthcare prediction system  
 - Data preprocessing, feature selection, supervised models  
-- Focus on **real-world medical decision support**
+- Real-world medical decision support use case  
+
+---
 
 ### 🩺 Medic-Assistant
 🔗 https://github.com/sakshamkumarsingh11/Medic-Assistant-  
-- Doctor support app for medicine recommendations  
-- Java-based logic with GUI + backend flow  
+- Doctor support system for medicine recommendations  
+- Backend-focused Java application with decision logic  
+
+---
 
 ### ☁️ ConvoCloud
 🔗 https://github.com/sakshamkumarsingh11/ConvoCloud  
 - Beginner cloud-oriented project  
-- Focused on collaboration & deployment basics  
-
-### 🛒 Kirana Store Management
-- Python-based local inventory system  
-- CRUD + logic-driven structure  
+- Focus on deployment & collaboration workflows  
 
 ---
 
 ## 📈 DSA Progress
-
 ![LeetCode Stats](https://leetcard.jacoblin.cool/saksham_123?theme=dark&font=baloo)
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Stats (Fixed)
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sakshamkumarsingh11&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkumarsingh11&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamkumarsingh11&show_icons=true&hide_border=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkumarsingh11&layout=compact&hide_border=true&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 ## 📫 Connect
-- GitHub: https://github.com/sakshamkumarsingh11
+- GitHub: https://github.com/sakshamkumarsingh11  
 - LinkedIn: (add when ready)
 
 ---
 
-⭐ _From Python basics → C++ DSA → Backend & ML systems._  
-⭐ _Long way to go. Exactly the point._
+⭐ _From DSA → Backend → ML → Deep Learning → Cloud._  
+⭐ _No shortcuts. Just compounding._
