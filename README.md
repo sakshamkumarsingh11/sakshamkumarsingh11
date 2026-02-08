@@ -1,98 +1,93 @@
-# Hey, I'm Saksham 👋  
+<h1 align="center">Hi 👋, I'm Saksham</h1>
+<h3 align="center">B.Tech (2nd Year) | Backend & ML Enthusiast | DSA-Oriented</h3>
 
-🚀 **2nd Year B.Tech Student** | 💻 Aspiring Software Engineer | 🌱 Always Evolving  
+<p align="center">
+  <a href="https://leetcode.com/u/Sakshamks11/">LeetCode</a> •
+  <a href="https://codolio.com/profile/Sakshamks11">Codolio</a> •
+  <a href="https://www.geeksforgeeks.org/user/codecsesqf11/">GeeksforGeeks</a>
+</p>
 
 ---
 
-## 👨‍💻 About Me  
-- 🎯 Passionate about building **practical, impactful projects**  
-- 🛠 Currently working on: **Heart-disease-prediction-model** 🩺  
-- 📚 Proficient in **Spring Boot, JavaFX, and REST APIs**
-- 💡 I believe in **"Code it. Break it. Fix it. Learn from it."**  
+## 🚀 About Me
+- 2nd Year **B.Tech student** focused on **strong fundamentals**
+- Interested in **Backend Engineering + Machine Learning**
+- Believe in building **projects first**, theory alongside
+- Currently working on **ML-driven healthcare systems**
+
+> _Code. Fail. Debug. Repeat._
+
 ---
-### 🔧 Skills
-- **Languages:** Java, Python, C++ 
-- **Frameworks:** Spring Boot  
-- **Concepts:** AI, Backend Development, DSA , Machine Learning
-- **Tools:** Git, GitHub  
 
+## 🧠 Current Focus
+- **DSA in C++** (problem-solving & efficiency)
+- **Spring Boot + REST APIs**
+- **Machine Learning fundamentals**
+- Backend-heavy, logic-driven projects
 
-## 📈 DSA Progress  
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+`Java` `C++` `Python` `JavaScript` `HTML` `CSS`
+
+### Backend & Frameworks
+`Spring Boot` `REST APIs` `JavaFX` `Swing` `Tkinter`
+
+### Machine Learning
+`Scikit-learn` `Pandas` `NumPy`  
+Supervised Learning • Preprocessing • Model Evaluation
+
+### Tools & DB
+`Git` `GitHub` `MySQL`
+
+---
+
+## 📌 Featured Projects
+
+### 🩺 Heart Disease Prediction Model
+🔗 https://github.com/sakshamkumarsingh11/Heart-disease-prediction-model  
+- ML-based healthcare prediction system  
+- Data preprocessing, feature selection, supervised models  
+- Focus on **real-world medical decision support**
+
+### 🩺 Medic-Assistant
+🔗 https://github.com/sakshamkumarsingh11/Medic-Assistant-  
+- Doctor support app for medicine recommendations  
+- Java-based logic with GUI + backend flow  
+
+### ☁️ ConvoCloud
+🔗 https://github.com/sakshamkumarsingh11/ConvoCloud  
+- Beginner cloud-oriented project  
+- Focused on collaboration & deployment basics  
+
+### 🛒 Kirana Store Management
+- Python-based local inventory system  
+- CRUD + logic-driven structure  
+
+---
+
+## 📈 DSA Progress
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/saksham_123?theme=dark&font=baloo)
 
-### 🔗 Profiles  
-- [LeetCode](https://leetcode.com/u/Sakshamks11/)  
-- [Codolio](https://codolio.com/profile/Sakshamks11)  
-- [GeeksforGeeks](https://www.geeksforgeeks.org/user/codecsesqf11/)  
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sakshamkumarsingh11&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkumarsingh11&layout=compact&theme=tokyonight" />
+</p>
 
 ---
 
-## 🛤 My Journey  
-- **1st Year:** Started with **Python**, learning the basics of problem-solving and building simple projects  
-  - Strengthening **Java** skills (OOP, GUI, Backend)
-- **Now (2nd Year):**  
-  - Deep diving into **C++ with DSA** for competitive programming  
-  - Building **backend-heavy projects** using Spring Boot & REST APIs  
-  - Actively exploring **Machine Learning**  
-    - Working on **Heart Disease Prediction Model**  
-    - Learning data preprocessing, model training, and evaluation  
-  - Moving towards **full-stack + ML-integrated applications**
----
-
-## 🛠 Tech Stack  
-
-**Languages:**  
-Java, Python, C++, HTML, CSS, JavaScript  
-
-**Backend & Frameworks:**  
-Spring Boot, REST APIs, JavaFX, Tkinter  
-
-**Machine Learning:**  
-- Supervised Learning  
-- Data Preprocessing  
-- Model Training & Evaluation  
-- Scikit-learn, Pandas, NumPy  
-
-**Databases & Tools:**  
-MySQL, Git, GitHub  
-
-**Currently Learning:**  
-Advanced DSA, Machine Learning, System Design (Basics)
+## 📫 Connect
+- GitHub: https://github.com/sakshamkumarsingh11
+- LinkedIn: (add when ready)
 
 ---
 
-## 📌 Featured Projects  
-
-- 🩺 **[Heart Disease Prediction Model](https://github.com/sakshamkumarsingh11/Heart-disease-prediction-model)**  
-  - Machine Learning–based system to predict heart disease risk  
-  - Uses data preprocessing, feature selection, and supervised learning models  
-  - Focused on real-world healthcare prediction use cases  
-
-- 🩺 **[Medic-Assistant](https://github.com/sakshamkumarsingh11/Medic-Assistant-)**  
-  - Doctor’s assistant app with medicine recommendations  
-  - Built using Java, Swing/JavaFX, and backend logic  
-
-- ☁️ **[ConvoCloud](https://github.com/sakshamkumarsingh11/ConvoCloud)**  
-  - Beginner-friendly project to learn deployment & collaboration  
-
-- 🛒 **Kirana Store Management**  
-  - Local shop inventory system built using Python  
-
-
- ## 📊 GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakshamkumarsingh11&show_icons=true&theme=tokyonight)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakshamkumarsingh11&layout=compact&theme=tokyonight)
-
----
-
-## 📫 Let's Connect  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/sakshamkumarsingh11)  
-
----
-
-*"From Python basics to C++ DSA,  
-from simple scripts to real-world apps —  
-this journey is just getting started."*  
-
+⭐ _From Python basics → C++ DSA → Backend & ML systems._  
+⭐ _Long way to go. Exactly the point._
