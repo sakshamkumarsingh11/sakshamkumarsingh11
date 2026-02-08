@@ -42,7 +42,7 @@
 - Data Preprocessing & Feature Engineering
 - Model Training & Evaluation  
 **Libraries:**  
-`Scikit-learn` `Pandas` `NumPy``Matplotlib` `Seaborn`
+`Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Seaborn`
 `Keras` `PyTorch`
 
 ### Cloud & Tools
@@ -84,8 +84,7 @@
 ---
 
 ## 📈 DSA Progress
-![LeetCode Stats](https://leetcard.jacoblin.cool/saksham_123?theme=dark&font=baloo)
-
+![LeetCode Heatmap](https://leetcard.jacoblin.cool/Sakshamks11?ext=heatmap)
 ---
 
 ## 📊 GitHub Stats (Fixed)
