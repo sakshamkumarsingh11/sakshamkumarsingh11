@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Saksham</h1>
-<h3 align="center">B.Tech (2nd Year) | Backend + ML Engineer in Progress | DSA-Focused</h3>
+<h3 align="center">B.Tech (2nd Year) | Backend + ML Engineer | DSA-Focused</h3>
 
 <p align="center">
   <a href="https://leetcode.com/u/Sakshamks11/">LeetCode</a> •
@@ -72,14 +72,18 @@
 ### 🩺 Medic-Assistant
 🔗 https://github.com/sakshamkumarsingh11/Medic-Assistant-  
 - Doctor support system for medicine recommendations  
-- Backend-focused Java application with decision logic  
+- Backend-focused Java application with decision logic
+- https://v0-medicine-assist-app-i0rfnk.vercel.app/  
 
 ---
 
 ### ☁️ ConvoCloud
 🔗 https://github.com/sakshamkumarsingh11/ConvoCloud  
 - Beginner cloud-oriented project  
-- Focus on deployment & collaboration workflows  
+- Focus on deployment & collaboration workflows
+- https://convocloud-5.onrender.com
+
+
 
 ---
 
