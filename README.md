@@ -20,10 +20,10 @@
 ---
 
 ## 🧠 Current Focus
-- **DSA in C++** (problem-solving & efficiency)
-- **Spring Boot + REST APIs**
-- **MERN Stack (MongoDB, Express, React, Node.js)**
 - **Machine Learning & Deep Learning**
+- **DSA in C++** (problem-solving & efficiency)
+- **MERN Stack (MongoDB, Express, React, Node.js)**
+- **Spring Boot + REST APIs**
 - Cloud fundamentals with **AWS**
 
 ---
@@ -42,7 +42,7 @@
 - Data Preprocessing & Feature Engineering
 - Model Training & Evaluation  
 **Libraries:**  
-`Scikit-learn` `Pandas` `NumPy`  
+`Scikit-learn` `Pandas` `NumPy``Matplotlib` `Seaborn`
 `Keras` `PyTorch`
 
 ### Cloud & Tools
@@ -55,7 +55,9 @@
 ### 🐶 Dog Vision Project
 - Deep Learning–based image classification system  
 - Built using **CNNs with PyTorch / Keras**
-- Focused on computer vision fundamentals and model evaluation  
+- Focused on computer vision fundamentals and model evaluation
+- https://huggingface.co/spaces/Sakshamks/Dog-prediction
+- https://github.com/sakshamkumarsingh11/Dog-vision  
 
 ---
 
@@ -97,7 +99,7 @@
 
 ## 📫 Connect
 - GitHub: https://github.com/sakshamkumarsingh11  
-- LinkedIn: (add when ready)
+- LinkedIn: (https://www.linkedin.com/in/saksham-k-s/)
 
 ---
 
