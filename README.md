@@ -24,7 +24,7 @@
 - **DSA in C++** (problem-solving & efficiency)
 - **MERN Stack (MongoDB, Express, React, Node.js)**
 - **Spring Boot + REST APIs**
-- Cloud fundamentals with **AWS**
+- **Cloud fundamentals with AWS**
 
 ---
 
