@@ -61,7 +61,7 @@
 - Used models like **Random Forest & XGBoost** for prediction  
 - Evaluated performance using **ROC Curve, Accuracy, Precision-Recall**  
 - Focused on real-world business use case (customer retention)
-- https://github.com/sakshamkumarsingh11/Multi-churn-prediction-application  
+
 
 ---
 
