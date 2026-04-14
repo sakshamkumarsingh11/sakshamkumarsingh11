@@ -69,11 +69,15 @@
 
 ---
 
-### 🩺 Medic-Assistant
-🔗 https://github.com/sakshamkumarsingh11/Medic-Assistant-  
-- Doctor support system for medicine recommendations  
-- Backend-focused Java application with decision logic
-- https://v0-medicine-assist-app-i0rfnk.vercel.app/  
+### 📊 ChurnSense (Customer Churn Prediction System)
+🔗 https://github.com/sakshamkumarsingh11/Multi-churn-prediction-application  
+
+- End-to-end **ML pipeline** for predicting customer churn  
+- Applied **SMOTE** to handle class imbalance  
+- Used models like **Random Forest & XGBoost** for prediction  
+- Evaluated performance using **ROC Curve, Accuracy, Precision-Recall**  
+- Focused on real-world business use case (customer retention)
+- https://github.com/sakshamkumarsingh11/Multi-churn-prediction-application  
 
 ---
 
