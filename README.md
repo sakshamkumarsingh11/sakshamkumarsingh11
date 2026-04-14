@@ -90,7 +90,7 @@
 ---
 
 
----
+
 
 ## 📈 DSA Progress
 <p align="center">
@@ -100,7 +100,6 @@
   />
 </p>---
 
-## 📊 GitHub Stats 
 
 ## 📊 GitHub Stats
 
