@@ -70,7 +70,7 @@
 - Beginner cloud-oriented project  
 - Focus on deployment & collaboration workflows
 - https://convocloud-5.onrender.com
-
+---
 
 ### 🐶 Dog Vision Project
 - Deep Learning–based image classification system  
