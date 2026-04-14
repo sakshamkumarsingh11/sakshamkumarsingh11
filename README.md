@@ -52,22 +52,6 @@
 
 ## 📌 Featured Projects
 
-### 🐶 Dog Vision Project
-- Deep Learning–based image classification system  
-- Built using **CNNs with PyTorch / Keras**
-- Focused on computer vision fundamentals and model evaluation
-- https://huggingface.co/spaces/Sakshamks/Dog-prediction
-- https://github.com/sakshamkumarsingh11/Dog-vision  
-
----
-
-### 🩺 Heart Disease Prediction Model
-🔗 https://github.com/sakshamkumarsingh11/Heart-disease-prediction-model  
-- ML-based healthcare prediction system  
-- Data preprocessing, feature selection, supervised models  
-- Real-world medical decision support use case  
-
----
 
 ### 📊 ChurnSense (Customer Churn Prediction System)
 🔗 https://github.com/sakshamkumarsingh11/Multi-churn-prediction-application  
@@ -87,6 +71,23 @@
 - Focus on deployment & collaboration workflows
 - https://convocloud-5.onrender.com
 
+
+### 🐶 Dog Vision Project
+- Deep Learning–based image classification system  
+- Built using **CNNs with PyTorch / Keras**
+- Focused on computer vision fundamentals and model evaluation
+- https://huggingface.co/spaces/Sakshamks/Dog-prediction
+- https://github.com/sakshamkumarsingh11/Dog-vision  
+
+---
+
+### 🩺 Heart Disease Prediction Model
+🔗 https://github.com/sakshamkumarsingh11/Heart-disease-prediction-model  
+- ML-based healthcare prediction system  
+- Data preprocessing, feature selection, supervised models  
+- Real-world medical decision support use case  
+
+---
 
 
 ---
