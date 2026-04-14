@@ -141,5 +141,5 @@
 
 ---
 
-⭐ _From DSA → Backend → ML → Systems_  
-⭐ _Consistency beats talent._
+ _From DSA → Backend → ML → Systems_  
+ _Consistency beats talent._
