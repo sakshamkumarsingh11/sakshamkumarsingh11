@@ -10,21 +10,21 @@
 ---
 
 ## 🚀 About Me
-- B.Tech (2nd Year) building **strong CS fundamentals**  
-- Focused on **Backend Systems + Machine Learning**  
-- Prefer **real-world projects over toy demos**  
-- Currently exploring **Deep Learning & scalable systems**
+- B.Tech (2nd Year) building strong CS fundamentals  
+- Focused on Backend Systems + Machine Learning  
+- Prefer real-world projects over toy demos  
+- Currently exploring Deep Learning & scalable systems  
 
-> _Build → Break → Fix → Repeat_
+> Build → Break → Fix → Repeat  
 
 ---
 
 ## 🧠 Current Focus
-- **Machine Learning & Deep Learning**
-- **DSA in C++ (optimization + problem solving)**
-- **Backend Development (Spring Boot + MERN)**
-- **REST API design & system thinking**
-- **Cloud basics (AWS + deployment)**
+- Machine Learning & Deep Learning  
+- DSA in C++ (optimization + problem solving)  
+- Backend Development (Spring Boot + MERN)  
+- REST API design & system thinking  
+- Cloud basics (AWS + deployment)  
 
 ---
 
@@ -43,8 +43,7 @@
 - Model Evaluation & Optimization  
 
 **Libraries:**  
-`Scikit-learn` `Pandas` `NumPy` `Matplotlib`  
-`Keras` `PyTorch`
+`Scikit-learn` `Pandas` `NumPy` `Matplotlib` `Keras` `PyTorch`
 
 ### ☁️ Tools & Platforms
 `Git` `GitHub` `AWS` `Vercel` `Render`
@@ -56,11 +55,11 @@
 ### 📊 ChurnSense (Customer Churn Prediction System)
 🔗 https://github.com/sakshamkumarsingh11/Multi-churn-prediction-application  
 
-- End-to-end **ML pipeline** for churn prediction  
-- Applied **SMOTE** to handle class imbalance  
-- Used **Random Forest & XGBoost**  
-- Evaluated using **ROC Curve, Precision-Recall**  
-- Focused on **real-world business impact (customer retention)**  
+- End-to-end ML pipeline for churn prediction  
+- Applied SMOTE for class imbalance  
+- Used Random Forest & XGBoost  
+- Evaluated using ROC Curve & Precision-Recall  
+- Business-focused prediction system  
 
 ---
 
@@ -68,9 +67,9 @@
 🔗 https://huggingface.co/spaces/Sakshamks/Dog-prediction  
 🔗 https://github.com/sakshamkumarsingh11/Dog-vision  
 
-- Image classification using **CNNs**  
-- Built with **PyTorch / Keras**  
-- Focus on model evaluation & performance  
+- CNN-based image classification  
+- Built with PyTorch / Keras  
+- Model evaluation and optimization  
 
 ---
 
@@ -78,8 +77,8 @@
 🔗 https://github.com/sakshamkumarsingh11/Heart-disease-prediction-model  
 
 - ML-based healthcare prediction system  
-- Implemented **data preprocessing + feature selection**  
-- Built supervised models for decision support  
+- Data preprocessing + feature selection  
+- Supervised learning models  
 
 ---
 
@@ -87,33 +86,35 @@
 🔗 https://github.com/sakshamkumarsingh11/ConvoCloud  
 🔗 https://convocloud-5.onrender.com  
 
-- Cloud-based app deployed on **Render**  
-- Focus on backend workflows & deployment  
+- Cloud-based full-stack app  
+- Backend + deployment workflow  
+- Hosted on Render  
 
 ---
 
 ## ⚡ Engineering Highlights
 
-- Built **end-to-end ML pipelines** (data → model → evaluation)  
-- Applied **SMOTE** for imbalanced datasets  
-- Experience with **Random Forest, XGBoost, CNNs**  
-- Designed **REST APIs using Spring Boot**  
-- Hands-on with **deployment (Render, Vercel, HuggingFace)**  
-- Strong **DSA foundation (C++)**  
+- Built end-to-end ML pipelines (data → model → evaluation)  
+- Applied SMOTE for imbalanced datasets  
+- Experience with Random Forest, XGBoost, CNNs  
+- Designed REST APIs using Spring Boot  
+- Hands-on deployment (Render, Vercel, HuggingFace)  
+- Strong DSA foundation (C++)  
 
 ---
 
 ## 📈 DSA Progress
+
 <p align="center">
   <img 
-    src="https://leetcard.jacoblin.cool/Sakshamks11?ext=heatmap&theme=dark&font=baloo"
-    width="900"
+    src="https://leetcard.jacoblin.cool/Sakshamks11?ext=heatmap&theme=dark"
+    width="850"
   />
 </p>
 
 ---
 
-##  GitHub Analytics
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sakshamkumarsingh11&show_icons=true&theme=tokyonight" />
@@ -127,12 +128,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshamkumarsingh11&theme=tokyo-night&hide_border=true" />
 </p>
 
+---
+
 ## 📫 Connect
-- GitHub: https://github.com/sakshamkumarsingh11
-- 
-- LinkedIn: https://www.linkedin.com/in/saksham-k-s/
+
+- GitHub: https://github.com/sakshamkumarsingh11  
+- LinkedIn: https://www.linkedin.com/in/saksham-k-s/  
 
 ---
 
- _From DSA → Backend → ML → Systems_  
- _Consistency beats talent._
+_From DSA → Backend → ML → Systems_  
+_Consistency beats talent._
