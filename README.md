@@ -54,6 +54,7 @@
 
 ### 📊 ChurnSense (Customer Churn Prediction System)
 🔗 https://github.com/sakshamkumarsingh11/Multi-churn-prediction-application  
+🔗 https://multi-churn-prediction-application-6sjrhfmkf.vercel.app/
 
 - End-to-end ML pipeline for churn prediction  
 - Applied SMOTE for class imbalance  
