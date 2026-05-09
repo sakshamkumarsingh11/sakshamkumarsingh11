@@ -2,7 +2,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:16213e,100:0f3460&height=220&section=header&text=Saksham%20Kumar%20Singh&fontSize=42&fontColor=e94560&animation=fadeIn&fontAlignY=38&desc=Backend%20Engineer%20%7C%20ML%20Enthusiast%20%7C%20DSA%20Focused&descAlignY=55&descColor=a8b2d8)
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=650&lines=Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat;Backend+Systems+%2B+Machine+Learning;DSA+in+C%2B%2B+%7C+Spring+Boot+%7C+MERN;From+Raw+Data+%E2%86%92+Model+%E2%86%92+Production)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=E94560&center=true&vCenter=true&width=650&lines=Build+%E2%86%92+Break+%E2%86%92+Fix+%E2%86%92+Repeat;DSA+in+C%2B%2B+%7C+Spring+Boot;Backend+Systems+%7C+REST+APIs;From+Raw+Data+%E2%86%92+Model+%E2%86%92+Production)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700"/>
 
@@ -85,7 +85,7 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 
 ## Featured Projects
 
-<img align="right" width="300" src="https://user-images.githubusercontent.com/74038190/238200428-67f477ed-6624-42da-99f0-1a7b1a16eecb.gif"/>
+<img align="right" width="340" src="https://user-images.githubusercontent.com/74038190/212749171-b84692a8-2b04-4e3b-93ca-ac14705da224.gif"/>
 
 ### ChurnSense — Customer Churn Prediction System
 > End-to-end ML pipeline for customer churn prediction with a business-focused interface.
