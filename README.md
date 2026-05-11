@@ -114,6 +114,19 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 
 ---
 
+### ConvoCloud — Full-Stack Cloud App
+> Cloud-based chat application with full backend and deployment workflow.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/ConvoCloud)
+[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://convocloud-5.onrender.com)
+
+- Full-stack **MERN** architecture with backend-first design
+- Deployed on **Render** with production-ready configuration
+
+<br clear="right"/>
+
+---
+
 ### Dog Vision — CNN Image Classifier
 > Deep learning-based dog breed classification.
 
@@ -124,8 +137,6 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 - Full model training, evaluation, and deployment pipeline
 - Live on HuggingFace Spaces
 
-<br clear="right"/>
-
 ---
 
 ### Heart Disease Prediction
@@ -135,17 +146,6 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 
 - Data preprocessing, feature selection, and supervised learning models
 - Focused on clinical relevance — not just benchmark scores
-
----
-
-### ConvoCloud — Full-Stack Cloud App
-> Cloud-based chat application with full backend and deployment workflow.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/ConvoCloud)
-[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://convocloud-5.onrender.com)
-
-- Full-stack **MERN** architecture with backend-first design
-- Deployed on **Render** with production-ready configuration
 
 ---
 
@@ -200,31 +200,45 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 
 ---
 
-## AI / ML Depth
+## AI / ML Learning Journey
 
 <div align="center">
 
 <img src="https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif" width="420"/>
 
+### Course Progression
+
+| Status | Course | Platform | Topics Covered |
+|--------|--------|----------|---------------|
+| ✅ **Completed** | [Complete Machine Learning & Data Science — Zero to Mastery](https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/) | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) | Supervised Learning, Feature Engineering, Scikit-learn, Pandas, EDA, Model Evaluation, End-to-End Projects |
+| 🔄 **In Progress** | [Deep Learning A-Z 2026: Neural Networks, AI, AWS & LLMs](https://www.udemy.com/course/deeplearning/) | ![Udemy](https://img.shields.io/badge/Udemy-A435F0?style=flat-square&logo=udemy&logoColor=white) | ANNs, CNNs, RNNs, LSTMs, GANs, NLP, LLMs, AWS SageMaker |
+| 📌 **Planned** | NLP & Transformers (Hugging Face) | Self-directed | BERT, GPT architecture, Fine-tuning, Agents |
+| 📌 **Planned** | MLOps & Model Serving | Self-directed | MLflow, FastAPI, Docker, CI/CD for ML |
+
 </div>
 
-### What I've Built & Learned
+### Skill Depth Map
 
 ```
-ML Foundations          ████████████████████  100%
-Supervised Learning     ████████████████████  100%
+ML Foundations          ████████████████████  100%  ✅ ZTM Certified
+Supervised Learning     ████████████████████  100%  ✅ ZTM Certified
 Feature Engineering     ███████████████░░░░░   75%
-Deep Learning (CNNs)    ██████████████░░░░░░   70%
-Model Deployment        ████████████████░░░░   80%
-NLP / Transformers      ████████░░░░░░░░░░░░   40%  ← actively learning
-Reinforcement Learning  █████░░░░░░░░░░░░░░░   25%  ← on the roadmap
+Model Evaluation        ████████████████████  100%  ✅ ZTM Certified
+Deep Learning (ANNs)    ███████████████░░░░░   75%  🔄 DL A-Z In Progress
+Deep Learning (CNNs)    ██████████████░░░░░░   70%  🔄 DL A-Z In Progress
+RNNs / LSTMs           ████████░░░░░░░░░░░░   40%  🔄 DL A-Z In Progress
+GANs                    █████░░░░░░░░░░░░░░░   25%  🔄 DL A-Z Upcoming
+NLP / Transformers      ████████░░░░░░░░░░░░   40%  📌 Next Focus
+LLMs / GenAI           ████░░░░░░░░░░░░░░░░   20%  📌 Roadmap
+Reinforcement Learning  ███░░░░░░░░░░░░░░░░░   15%  📌 Roadmap
 ```
 
-### AI/ML Techniques Used
+### Techniques in My Arsenal
 - **Classification** — Logistic Regression, Random Forest, XGBoost, SVM
 - **Imbalanced Learning** — SMOTE, class weighting, threshold tuning
-- **Deep Learning** — CNNs (image classification), Dense networks
-- **Evaluation** — ROC-AUC, Precision-Recall, Confusion Matrix, F1
+- **Deep Learning** — ANNs, CNNs (image classification), Dense networks
+- **Sequence Models** — RNNs, LSTMs — currently learning via DL A-Z
+- **Evaluation** — ROC-AUC, Precision-Recall, Confusion Matrix, F1-Score
 - **Deployment** — HuggingFace Spaces, Vercel, REST API wrapping models
 
 ---
