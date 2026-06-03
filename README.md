@@ -127,15 +127,29 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 
 ---
 
-### Dog Vision — CNN Image Classifier
-> Deep learning-based dog breed classification.
+### NeuroAI — AI-Powered TBI Rehabilitation Platform
+> End-to-end AI ecosystem for early hemorrhage detection and intelligent speech rehabilitation.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/Dog-vision)
-[![HuggingFace](https://img.shields.io/badge/HuggingFace%20Space-FFD21E?style=flat-square&logo=huggingface&logoColor=black)](https://huggingface.co/spaces/Sakshamks/Dog-prediction)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/NeuroAI-tbi)
 
-- Built with **PyTorch / Keras** — CNN-based architecture
-- Full model training, evaluation, and deployment pipeline
-- Live on HuggingFace Spaces
+- **EfficientNet-B4** for multi-label intracranial hemorrhage classification (5 sub-types) with **Grad-CAM** explainability overlays
+- **Phoneme-level speech scoring** using Allosaurus + Levenshtein alignment for dysarthric speech rehabilitation
+- **PPO Reinforcement Learning** agent dynamically adapts therapy difficulty based on accuracy, fatigue & recovery trend
+- **MediaPipe** real-time facial motor monitoring — lip closure, jaw ROM & asymmetry tracking
+- Modular 3-tier architecture: React frontend + FastAPI CT backend + Flask speech backend
+
+---
+
+### Placemate AI — AI-Powered Career Preparation Platform
+> All-in-one placement prep platform with AI mock interviews, resume analysis, and project insights.
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/Placemate-AI)
+
+- **AI Mock Interviews** — personalized simulations with company-specific technical & behavioral practice
+- **ATS Resume Analyzer** — job description matching, compatibility scoring & improvement recommendations
+- **GitHub Repository Analysis** — project summarization & tech stack extraction via GitIngest
+- **Resume Generator** with PDF export, GitHub integration & job description tailoring
+- Full-stack: **React + Vite + Tailwind** frontend, **Node.js/Express** API layer, **FastAPI** backend; powered by **Groq API** & **Google Gemini**
 
 ---
 
