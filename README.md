@@ -114,19 +114,6 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 
 ---
 
-### ConvoCloud — Full-Stack Cloud App
-> Cloud-based chat application with full backend and deployment workflow.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/ConvoCloud)
-[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://convocloud-5.onrender.com)
-
-- Full-stack **MERN** architecture with backend-first design
-- Deployed on **Render** with production-ready configuration
-
-<br clear="right"/>
-
----
-
 ### NeuroAI — AI-Powered TBI Rehabilitation Platform
 > End-to-end AI ecosystem for early hemorrhage detection and intelligent speech rehabilitation.
 
@@ -152,16 +139,19 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 - Full-stack: **React + Vite + Tailwind** frontend, **Node.js/Express** API layer, **FastAPI** backend; powered by **Groq API** & **Google Gemini**
 
 ---
+### ConvoCloud — Full-Stack Cloud App
+> Cloud-based chat application with full backend and deployment workflow.
 
-### Heart Disease Prediction
-> ML-powered healthcare prediction system.
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/ConvoCloud)
+[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://convocloud-5.onrender.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/Heart-disease-prediction-model)
+- Full-stack **MERN** architecture with backend-first design
+- Deployed on **Render** with production-ready configuration
 
-- Data preprocessing, feature selection, and supervised learning models
-- Focused on clinical relevance — not just benchmark scores
+<br clear="right"/>
 
 ---
+
 
 ## Engineering Highlights
 
