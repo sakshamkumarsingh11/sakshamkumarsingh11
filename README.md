@@ -131,13 +131,13 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 > All-in-one placement prep platform with AI mock interviews, resume analysis, and project insights.
 
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/Placemate-AI)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel)](https://placemate-ai-two.vercel.app/)
 
 - **AI Mock Interviews** — personalized simulations with company-specific technical & behavioral practice
 - **ATS Resume Analyzer** — job description matching, compatibility scoring & improvement recommendations
 - **GitHub Repository Analysis** — project summarization & tech stack extraction via GitIngest
 - **Resume Generator** with PDF export, GitHub integration & job description tailoring
 - Full-stack: **React + Vite + Tailwind** frontend, **Node.js/Express** API layer, **FastAPI** backend; powered by **Groq API** & **Google Gemini**
-
 ---
 ### ConvoCloud — Full-Stack Cloud App
 > Cloud-based chat application with full backend and deployment workflow.
