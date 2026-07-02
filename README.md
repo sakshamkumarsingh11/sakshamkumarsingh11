@@ -104,8 +104,8 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 ### ChurnSense — Customer Churn Prediction System
 > End-to-end ML pipeline for customer churn prediction with a business-focused interface.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/Multi-churn-prediction-application)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel)](https://multi-churn-prediction-application-6sjrhfmkf.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/sakshamkumarsingh11/Multi-churn-prediction-application)
+[![Live Demo](https://img.shields.io/badge/%20Live%20Demo-FFC107?style=plastic&logo=vercel&logoColor=black)](https://multi-churn-prediction-application-6sjrhfmkf.vercel.app/) 
 
 - Applied **SMOTE** to handle class imbalance in production data
 - Trained & compared **Random Forest** and **XGBoost** models
@@ -130,8 +130,8 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 ### Placemate AI — AI-Powered Career Preparation Platform
 > All-in-one placement prep platform with AI mock interviews, resume analysis, and project insights.
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/Placemate-AI)
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-000000?style=flat-square&logo=vercel)](https://placemate-ai-two.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/sakshamkumarsingh11/Placemate-AI)
+[![Live Demo](https://img.shields.io/badge/%20Live%20Demo-FFC107?style=plastic&logo=vercel&logoColor=black)](https://placemate-ai-two.vercel.app/)
 
 - **AI Mock Interviews** — personalized simulations with company-specific technical & behavioral practice
 - **ATS Resume Analyzer** — job description matching, compatibility scoring & improvement recommendations
@@ -141,10 +141,10 @@ I'm a **2nd-year B.Tech student** building strong CS fundamentals across backend
 ---
 ### ConvoCloud — Full-Stack Cloud App
 > Cloud-based chat application with full backend and deployment workflow.
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)](https://github.com/sakshamkumarsingh11/ConvoCloud)
-[![Live](https://img.shields.io/badge/Live-46E3B7?style=flat-square&logo=render&logoColor=black)](https://convocloud-5.onrender.com)
-
+> 
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=plastic&logo=github&logoColor=white)](https://github.com/sakshamkumarsingh11/ConvoCloud)
+[![Live](https://img.shields.io/badge/Live-FFC107?style=plastic&logo=render&logoColor=black)](https://convocloud-5.onrender.com)
+> 
 - Full-stack **MERN** architecture with backend-first design
 - Deployed on **Render** with production-ready configuration
 
